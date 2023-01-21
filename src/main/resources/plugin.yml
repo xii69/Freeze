@@ -1,0 +1,5 @@
+name: Freeze
+version: '${project.version}'
+main: me.xii69.freeze.Main
+author: xii69
+description: Simple freeze plugin
